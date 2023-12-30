@@ -1,0 +1,82 @@
+.poppin-bx {width: 500px;
+   position: relative;
+   margin: 20px auto;
+   padding: 10px;
+   background: #fff; 
+   border: 1px solid #ddd;
+   background: #fff;
+   border-radius: 5px;
+  }
+  
+  .poppin-in { 
+   width: 400px;
+   font-size: 16px;
+   font-family: 'Nunito', sans-serif;
+   color: #444;
+   line-height: 16px;
+   margin: 10px auto;
+   margin-top: 100px;
+   padding: 40px;
+   text-align: justify;
+   overflow: auto;
+   background: #fff;
+  }
+  
+  .poppin-icon {
+    height: 40px; width: 40px;
+    position: relative;
+    top: 60px;
+    font-family: harc;
+    font-size: 60px;
+    color: rgba(var(--main));
+    text-shadow:-3px 0 rgba(var(--alt), 0.3);
+  }
+  
+  .poppin-icon:before {
+    content: var(--unicode);
+  }
+  
+  .poppin-tag {
+   width: 385px;
+   margin-top: 20px;
+   padding: 10px;
+   background: rgba(var(--alt), 0.4);
+  }
+  
+  .poppin-tag a.user-tagged {
+   font-family: 'Nunito', sans-serif;
+   font-size: 18px;
+   color: #000;
+   text-transform: lowercase;
+  }
+  
+  .poppin-in b {
+   font-weight: 700;
+   color: rgba(var(--main)); 
+  }
+  
+  .poppin-in i {
+   font-style: italic;
+   color: rgba(var(--main));
+  }
+
+  .poppin-bx span.dice-roll {
+   border: 0px!important;
+   display: inline-block;
+   text-transform: lowercase;
+  }
+  
+  .poppin-bx span.dice-roll b {
+   border-bottom: 2px solid rgba(var(--main), 0.2);
+  }
+  
+  .poppin-date {
+   font-size: 12px;
+   text-transform: uppercase;
+   font-family: 'Nunito', sans-serif;
+   position: absolute;
+   top: 160px; right: 60px;
+   color: rgba(var(--alt), 0.4);
+   letter-spacing: 2px;
+   font-style: italic;
+  }
