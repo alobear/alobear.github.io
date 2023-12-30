@@ -45,8 +45,8 @@
   
   .poppin-tag a.user-tagged {
    font-family: 'Nunito', sans-serif;
-   font-size: 18px;
-   color: #000;
+   font-size: 14px;
+   color: rgba(var(--main));
    text-transform: lowercase;
   }
   
