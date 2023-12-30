@@ -13,7 +13,7 @@
    font-size: 16px;
    font-family: 'Nunito', sans-serif;
    color: #444;
-   line-height: 20px;
+   line-height: 22px;
    margin: 10px auto;
    margin-top: 100px;
    padding: 40px;
@@ -41,11 +41,12 @@
    margin-top: 20px;
    padding: 10px;
    background: rgba(var(--alt), 0.4);
+   font-size: 12px;
   }
   
   .poppin-tag a.user-tagged {
    font-family: 'Nunito', sans-serif;
-   font-size: 14px;
+   font-size: 12px;
    color: rgba(var(--main));
    text-transform: lowercase;
   }
