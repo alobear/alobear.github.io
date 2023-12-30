@@ -75,7 +75,7 @@
    font-family: 'Nunito', sans-serif;
    position: absolute;
    top: 160px; right: 60px;
-   color: rgba(var(--alt), 0.4);
+   color: rgba(var(--alt));
    letter-spacing: 2px;
    font-style: italic;
   }
