@@ -59,6 +59,11 @@
    color: rgba(var(--main));
   }
 
+  .poppin-in a {
+   font-style: italic;
+   color: rgba(var(--main));
+  }
+
   .poppin-bx span.dice-roll {
    border: 0px!important;
    display: inline-block;
