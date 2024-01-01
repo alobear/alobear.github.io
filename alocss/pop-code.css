@@ -60,7 +60,7 @@
   }
 
   .poppin-in a {
-   font-style: italic;
+   font-style: underline;
    color: rgba(var(--main));
   }
 
