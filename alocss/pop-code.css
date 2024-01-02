@@ -46,7 +46,7 @@
    font-family: 'Nunito', sans-serif;
    font-size: 14px;
    color: rgba(var(--main));
-   text-transform: lowercase;
+   text-transform: uppercase;
   }
   
   .poppin-in b {
