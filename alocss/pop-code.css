@@ -10,7 +10,6 @@
 
   .poppin-in { 
    font-size: 16px;
-   font-family: 'Nunito', sans-serif;
    color: #444;
    line-height: 22px;
    margin: 10px auto;
@@ -43,7 +42,6 @@
   }
   
   .poppin-tag a.user-tagged {
-   font-family: 'Nunito', sans-serif;
    font-size: 14px;
    color: rgba(var(--main));
    text-transform: uppercase;
@@ -77,7 +75,6 @@
   .poppin-date {
    font-size: 12px;
    text-transform: uppercase;
-   font-family: 'Nunito', sans-serif;
    position: absolute;
    top: 160px; right: 60px;
    color: rgba(var(--alt));
