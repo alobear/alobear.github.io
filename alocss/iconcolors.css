@@ -7,6 +7,9 @@
 #maud {--main:204, 87, 95; --alt:101, 84, 100; --unicode:'\c30'; }
 #maud .hauyne-h1:before { font-family:'harc';  }
 
+#misun {--main:168, 105, 203; --alt:182, 202, 205; --unicode:'\c35'; }
+#misun .hauyne-h1:before { font-family:'harc';  }
+
 #nessa {--main: 156, 171, 160; --alt:241, 181, 181; --unicode:'\c43'; }
 #nessa .hauyne-h1:before { font-family:'harc';  }
 
