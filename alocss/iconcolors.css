@@ -1,32 +1,32 @@
-#gene {--main: 255, 95, 162; --alt: 252, 200, 155; --unicode:'\c29'; }
+#gene {--main: 223, 62, 139; --alt: 230, 106, 165; --unicode:'\c29'; }
 #gene .hauyne-h1:before { font-family:'harc';  }
 
-#judy {--main:204, 87, 95; --alt:101, 84, 100; --unicode:'\e11'; }
+#judy {--main: 216, 143, 68; --alt: 193, 117, 40; --unicode:'\e11'; }
 #judy .hauyne-h1:before { font-family:'bearsicle';  }
 
-#manon {--main:106, 102, 119; --alt:88, 93, 69; --unicode:'\c45'; }
+#manon {--main: 123, 90, 135; --alt: 149, 115, 161; --unicode:'\c45'; }
 #manon .hauyne-h1:before { font-family:'harc';  }
 
-#maud {--main:204, 87, 95; --alt:101, 84, 100; --unicode:'\e12'; }
+#maud {--main: 64, 166, 132; --alt: 90, 191, 158; --unicode:'\e12'; }
 #maud .hauyne-h1:before { font-family:'bearsicle';  }
 
-#misun {--main:168, 105, 203; --alt:182, 202, 205; --unicode:'\c35'; }
+#misun {--main: 171, 65, 207; --alt: 189, 106, 217; --unicode:'\c35'; }
 #misun .hauyne-h1:before { font-family:'harc';  }
 
-#nessa {--main: 156, 171, 160; --alt:241, 181, 181; --unicode:'\c43'; }
+#nessa {--main: 145, 174, 49; --alt: 173, 203, 71; --unicode:'\c43'; }
 #nessa .hauyne-h1:before { font-family:'harc';  }
 
-#pal {--main: 154, 219, 232; --alt: 238, 226, 159; --unicode:'\c34'; }
+#pal {--main: 61, 186, 209; --alt: 103, 200, 219; --unicode:'\c34'; }
 #pal .hauyne-h1:before { font-family:'harc';  }
 
-#penny {--main:156, 178, 165; --alt:200, 183, 201; --unicode:'\c40'; }
+#penny {--main: 149, 82, 66; --alt: 180, 104, 86; --unicode:'\c40'; }
 #penny .hauyne-h1:before { font-family:'harc';  }
 
-#sailor {--main:247, 202, 201; --alt:179, 206, 229; --unicode:'\c44'; }
+#sailor {--main: 255, 112, 163; --alt: 255, 163, 196; --unicode:'\c44'; }
 #sailor .hauyne-h1:before { font-family:'harc';  }
 
-#yara {--main: 170, 173, 208; --alt:177, 189, 187; --unicode:'\c32'; }
+#yara {--main: 100, 112, 155; --alt: 131, 140, 175; --unicode:'\c32'; }
 #yara .hauyne-h1:before { font-family:'harc';  }
 
-#zosia {--main: 113, 57, 82; --alt:58, 77, 85; --unicode:'\c42'; }
+#zosia {--main: 157, 98, 121; --alt: 176, 130, 148; --unicode:'\c42'; }
 #zosia .hauyne-h1:before { font-family:'harc';  }
