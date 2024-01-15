@@ -45,6 +45,7 @@
    font-size: 14px;
    color: rgba(var(--main));
    text-transform: uppercase;
+   text-decoration: none!important;
   }
   
   .poppin-in b {
