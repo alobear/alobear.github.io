@@ -4,7 +4,7 @@
 #judy {--main:204, 87, 95; --alt:101, 84, 100; --unicode:'\e11'; }
 #judy .hauyne-h1:before { font-family:'bearsicle';  }
 
-#manon {--main:131, 119, 141; --alt:93, 63, 75; --unicode:'\c45'; }
+#manon {--main:106, 102, 119; --alt:88, 93, 69; --unicode:'\c45'; }
 #manon .hauyne-h1:before { font-family:'harc';  }
 
 #maud {--main:204, 87, 95; --alt:101, 84, 100; --unicode:'\e12'; }
@@ -19,7 +19,7 @@
 #pal {--main: 154, 219, 232; --alt: 238, 226, 159; --unicode:'\c34'; }
 #pal .hauyne-h1:before { font-family:'harc';  }
 
-#penny {--main:112, 193, 179; --alt:129, 193, 122; --unicode:'\c40'; }
+#penny {--main:156, 178, 165; --alt:200, 183, 201; --unicode:'\c40'; }
 #penny .hauyne-h1:before { font-family:'harc';  }
 
 #sailor {--main:247, 202, 201; --alt:179, 206, 229; --unicode:'\c44'; }
@@ -28,5 +28,5 @@
 #yara {--main: 170, 173, 208; --alt:177, 189, 187; --unicode:'\c32'; }
 #yara .hauyne-h1:before { font-family:'harc';  }
 
-#zosia {--main: 98, 67, 67; --alt:130, 116, 82; --unicode:'\c42'; }
+#zosia {--main: 113, 57, 82; --alt:58, 77, 85; --unicode:'\c42'; }
 #zosia .hauyne-h1:before { font-family:'harc';  }
