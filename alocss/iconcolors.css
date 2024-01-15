@@ -1,5 +1,8 @@
-#gene {--main:255, 153, 201; --alt:193, 189, 219; --unicode:'\c29'; }
+#gene {--main: 255, 95, 162; --alt: 252, 200, 155; --unicode:'\c29'; }
 #gene .hauyne-h1:before { font-family:'harc';  }
+
+#judy {--main:204, 87, 95; --alt:101, 84, 100; --unicode:'\e11'; }
+#judy .hauyne-h1:before { font-family:'bearsicle';  }
 
 #manon {--main:131, 119, 141; --alt:93, 63, 75; --unicode:'\c45'; }
 #manon .hauyne-h1:before { font-family:'harc';  }
@@ -13,13 +16,13 @@
 #nessa {--main: 156, 171, 160; --alt:241, 181, 181; --unicode:'\c43'; }
 #nessa .hauyne-h1:before { font-family:'harc';  }
 
-#pal {--main:98, 121, 184; --alt:201, 182, 190; --unicode:'\c34'; }
+#pal {--main: 154, 219, 232; --alt: 238, 226, 159; --unicode:'\c34'; }
 #pal .hauyne-h1:before { font-family:'harc';  }
 
 #penny {--main:112, 193, 179; --alt:129, 193, 122; --unicode:'\c40'; }
 #penny .hauyne-h1:before { font-family:'harc';  }
 
-#sailor {--main:230, 172, 162; --alt:197, 196, 141; --unicode:'\c44'; }
+#sailor {--main:179, 206, 229; --alt:247, 202, 201; --unicode:'\c44'; }
 #sailor .hauyne-h1:before { font-family:'harc';  }
 
 #yara {--main: 170, 173, 208; --alt:177, 189, 187; --unicode:'\c32'; }
