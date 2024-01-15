@@ -22,7 +22,7 @@
 #penny {--main:112, 193, 179; --alt:129, 193, 122; --unicode:'\c40'; }
 #penny .hauyne-h1:before { font-family:'harc';  }
 
-#sailor {--main:179, 206, 229; --alt:247, 202, 201; --unicode:'\c44'; }
+#sailor {--main:247, 202, 201; --alt:179, 206, 229; --unicode:'\c44'; }
 #sailor .hauyne-h1:before { font-family:'harc';  }
 
 #yara {--main: 170, 173, 208; --alt:177, 189, 187; --unicode:'\c32'; }
