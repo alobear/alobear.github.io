@@ -22,7 +22,7 @@
   .poppin-icon {
     height: 40px; width: 40px;
     position: relative;
-    top: 60px; right: 40px;
+    top: 60px; right: 20px;
     font-family: 'harc', 'bearsicle';
     font-size: 80px;
     color: rgba(var(--main));
