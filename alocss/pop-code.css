@@ -58,8 +58,8 @@
   }
 
   .poppin-in a {
-   font-style: underline;
-   color: rgba(var(--main));
+   text-decoration: underline;
+   color: rgba(var(--alt));
   }
 
   .poppin-bx span.dice-roll {
