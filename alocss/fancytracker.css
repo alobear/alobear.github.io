@@ -12,7 +12,7 @@
     position: absolute;
     top: -15px; left: 10px;
     font-family: "magic retro";
-    font-size: 50px;
+    font-size: 44px;
     text-shadow: -2px 1px rgba(var(--main));
     text-transform: lowercase;
   }
