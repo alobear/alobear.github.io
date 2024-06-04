@@ -1,0 +1,222 @@
+<style>
+  .fancytr { width: 650px;
+  height: 600px;
+  background:linear-gradient(to bottom, rgba(var(--main), 0.2), rgba(var(--alt), 0.3));
+  border: 5px solid #fff;
+  margin: 20px auto;
+  padding: 10px;
+  border-radius: 5px;
+  position: relative;
+  }
+  
+  .fancyti {
+    position: absolute;
+    top: -15px; left: 10px;
+    font-family: "magic retro";
+    font-size: 50px;
+    text-shadow: -2px 1px rgba(var(--main));
+    text-transform: lowercase;
+  }
+  
+  .fancyav {
+    width: 150px;
+    height: 150px;
+    border-radius: 5px;
+    position: absolute;
+    top: -20px; right: -20px;
+    background: #ccc;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border: 5px solid #fff;
+  }
+  
+  .fancyinv {
+    position: absolute;
+    top: 12px; right: 150px;
+    font-family: "magic retro";
+    font-size: 18px;
+    text-transform: lowercase;
+    z-index: 2;
+    color: rgba(var(--alt));
+  }
+  
+  .fancybag {
+    width: 490px;
+    height: 25px;
+    overflow: auto;
+    position: absolute;
+    top: 25px; left: 20px;
+    background: #fff;
+    padding: 5px;
+    z-index: 1;
+    border-radius: 5px;
+  }
+  
+    .fancyclm {
+    position: absolute;
+    top: 62px; left: 30px;
+    font-family: "magic retro";
+    font-size: 18px;
+    text-transform: lowercase;
+    z-index: 2;
+    color: rgba(var(--alt));
+  }
+  
+  .fancyros {
+    width: 490px;
+    height: 40px;
+    overflow: auto;
+    position: absolute;
+    top: 75px; left: 20px;
+    background: #fff;
+    padding: 5px;
+    z-index: 1;
+    border-radius: 5px;
+    overflow: auto;
+  }
+  
+  .fancyros span {
+   height: 10px;
+   line-height: 10px;
+   padding: 5px;
+   text-transform: uppercase;
+   color: rgba(var(--main));
+   font-family: "quicksand", sans-serif;
+   font-size: 14px;
+   letter-spacing: 2px;
+   font-weight: 800px;
+   text-decoration: underline;
+   text-decoration-color:rgba(var(--alt));
+   text-decoration-thickness: 2px;
+}
+
+.fancycal {
+  width: 350px;
+  height: 430px;
+  background: #fff;
+  border-radius: 5px;
+  position: absolute;
+  top: 140px;
+  left: 20px;
+  overflow: auto;
+  padding: 10px;
+}
+
+.fancycal h1 {
+   color: rgba(var(--alt));
+   font-family: 'magic retro';
+   font-size: 30px;
+   text-transform: lowercase;
+   text-align: center;
+   margin-top: 10px;
+   line-height: 100%;
+   padding: 5px;
+   letter-spacing: 2px;
+}
+
+
+.fancycal a {
+   line-height: 20px;
+   padding: 5px;
+   text-transform: lowercase;
+   color: rgba(var(--main));
+   font-family: "quicksand", sans-serif;
+   font-size: 14px;
+   letter-spacing: 2px;
+   font-weight: 800px;
+   text-decoration: underline;
+   text-decoration-color:rgba(var(--alt));
+   text-decoration-thickness: 2px;
+}
+
+.fancycal b {
+   color: rgba(var(--main));
+   font-weighr: 700px;
+}
+
+.fancycal .ongoing {
+   line-height: 20px;
+   padding: 5px;
+   text-transform: uppercase;
+   font-family: "quicksand", sans-serif;
+   font-size: 12px;
+   font-weight: 800px;
+}
+
+ .fancycal .finish {
+   line-height: 20px;
+   padding: 5px;
+   text-transform: uppercase;
+   font-family: "quicksand", sans-serif;
+   font-size: 12px;
+   font-weight: 700px;
+   filter: grayscale(100%);
+ }
+ 
+  .fancycal .dead {
+   line-height: 20px;
+   padding: 5px;
+   text-transform: uppercase;
+   font-family: "quicksand", sans-serif;
+   font-size: 12px;
+   font-weight: 800px;
+   filter: grayscale(100%);
+   opacity: 0.5;
+   text-decoration:line-through;
+ }
+ 
+  .fancyico {
+    height: 50px; width: 50px;
+    position: absolute;
+    top: 170px; right: 200px;
+    font-family: 'harc', 'bearsicle';
+    font-size: 90px;
+    color: #fff;
+    text-shadow: -2px 1px rgba(var(--main));
+    z-index: 3;
+  }
+  
+  .fancyico:before {
+    content: var(--unicode);
+  }
+  
+  .fancyrel {
+    position: absolute;
+    top: 207px; right: 25px;
+    font-family: "magic retro";
+    font-size: 18px;
+    text-transform: lowercase;
+    z-index: 2;
+    color: rgba(var(--alt));
+  }
+  
+  .fancylist {
+    width: 200px;
+    height: 330px;
+    overflow: auto;
+    position: absolute;
+    top: 220px; right: 20px;
+    background: #fff;
+    padding: 20px;
+    z-index: 1;
+    border-radius: 5px;
+    overflow: auto;
+  }
+  
+  .fancylist span {
+   height: 20px;
+   line-height: 20px;
+   padding: 4px;
+   text-transform: uppercase;
+   color: rgba(var(--main));
+   font-family: "quicksand", sans-serif;
+   font-size: 12px;
+   letter-spacing: 3px;
+   font-weight: 800px;
+   text-decoration: underline;
+   text-decoration-color:rgba(var(--alt));
+   text-decoration-thickness: 2px;
+  }
+  
+</style>
