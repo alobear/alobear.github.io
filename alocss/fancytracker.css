@@ -1,5 +1,4 @@
-<style>
-  .fancytr { width: 650px;
+ .fancytr { width: 650px;
   height: 600px;
   background:linear-gradient(to bottom, rgba(var(--main), 0.2), rgba(var(--alt), 0.3));
   border: 5px solid #fff;
@@ -218,5 +217,3 @@
    text-decoration-color:rgba(var(--alt));
    text-decoration-thickness: 2px;
   }
-  
-</style>
