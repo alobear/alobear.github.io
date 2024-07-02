@@ -45,7 +45,7 @@
     top: 57px; right: 35px;
     font-family: "magic retro";
     font-size: 20px;
-    color: #333;
+    color: rgba(var(--main));
     text-transform: lowercase;
     z-index: 3;
   }
