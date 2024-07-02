@@ -73,7 +73,6 @@
     z-index: 1;
     border-radius: 5px;
     overflow: auto;
-    text-align: justify;
     line-height: 27px;
   }
   
@@ -203,7 +202,6 @@
     z-index: 1;
     border-radius: 5px;
     overflow: auto;
-    text-align: justify;
     line-height: 27px;
   }
   
