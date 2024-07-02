@@ -1,0 +1,90 @@
+   .poison { width: 400px;
+  background:linear-gradient(to bottom, rgba(var(--main), 0.2), rgba(var(--alt), 0.3));
+  border: 5px solid #fff;
+  margin: 20px auto;
+  padding: 30px;
+  border-radius: 5px;
+  position: relative;
+  }
+  
+  .poisonin {
+    width: 360px;
+    background: #fff;
+    padding: 5px;
+    z-index: 1;
+    margin-top: 40px;
+    padding: 19px;
+    font-family: "Dosis", sans-serif;
+    font-size: 18px;
+    text-align: justify;
+    line-height: 20px;
+    border-radius: 5px;
+    color: #333;
+  }
+  
+  .poisonin u {
+    color: rgba(var(--main));
+    text-decoration: underline 2px;
+    font-weight: 700px;
+  }
+  
+  .poisonin i {
+    color: rgba(var(--alt));
+    font-weight: 700px;
+  }
+  
+  .poisonin b {
+    background: linear-gradient(to bottom, rgba(var(--main)), rgba(var(--alt)));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: 700px;
+  }
+  
+  .poisond8 {
+    position: absolute;
+    top: 57px; right: 35px;
+    font-family: "magic retro";
+    font-size: 20px;
+    color: #333;
+    text-transform: lowercase;
+    z-index: 3;
+  }
+  
+  .poisontag {
+    font-family: "Dosis", sans-serif;
+    font-size: 16px;
+    text-align: justify;
+    line-height: 18px;
+    border-top: solid rgba(var(--alt), 0.3) 2px;
+    padding-top: 7px;
+  }
+
+  .poisontag a {
+   height: 10px;
+   line-height: 10px;
+   padding: 5px;
+   text-transform: uppercase;
+   color: rgba(var(--main));
+   font-family: "quicksand", sans-serif;
+   font-size: 12px;
+   letter-spacing: 2px;
+   font-weight: 800px;
+   text-decoration: underline;
+   text-decoration-color:rgba(var(--alt));
+   text-decoration-thickness: 2px;
+}
+
+  .poisonico {
+    height: 20px; width: 20px;
+    position: absolute;
+    top: 40px; right: 90px;
+    font-family: 'harc', 'bearsicle';
+    font-size: 70px;
+    color: #fff;
+    z-index: 2;
+  }
+  
+  .poisonico:before {
+    content: var(--unicode);
+  }
+  
