@@ -14,11 +14,11 @@
     z-index: 1;
     margin-top: 40px;
     padding: 19px;
-    font-family: "Dosis", sans-serif;
-    font-size: 18px;
+    font-size: 16px;
     text-align: justify;
     line-height: 24px;
     border-radius: 5px;
+    font-family: "quicksand", sans-serif;
   }
   
   .poisonin u {
@@ -50,8 +50,8 @@
   }
   
   .poisontag {
-    font-family: "Dosis", sans-serif;
-    font-size: 16px;
+    font-family: "quicksand", sans-serif;
+   font-size: 12px;
     text-align: justify;
     line-height: 18px;
     border-top: solid rgba(var(--alt), 0.3) 2px;
