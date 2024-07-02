@@ -1,4 +1,4 @@
- .fancytr { width: 650px;
+   .fancytr { width: 620px;
   height: 600px;
   background:linear-gradient(to bottom, rgba(var(--main), 0.2), rgba(var(--alt), 0.3));
   border: 5px solid #fff;
@@ -41,7 +41,7 @@
   }
   
   .fancybag {
-    width: 490px;
+    width: 460px;
     height: 25px;
     overflow: auto;
     position: absolute;
@@ -63,7 +63,7 @@
   }
   
   .fancyros {
-    width: 490px;
+    width: 460px;
     height: 40px;
     overflow: auto;
     position: absolute;
@@ -73,6 +73,8 @@
     z-index: 1;
     border-radius: 5px;
     overflow: auto;
+    text-align: justify;
+    line-height: 27px;
   }
   
   .fancyros span {
@@ -82,7 +84,7 @@
    text-transform: uppercase;
    color: rgba(var(--main));
    font-family: "quicksand", sans-serif;
-   font-size: 14px;
+   font-size: 12px;
    letter-spacing: 2px;
    font-weight: 800px;
    text-decoration: underline;
@@ -91,7 +93,7 @@
 }
 
 .fancycal {
-  width: 350px;
+  width: 330px;
   height: 430px;
   background: #eee;
   border-radius: 5px;
@@ -108,7 +110,7 @@
    font-size: 30px;
    text-transform: lowercase;
    text-align: center;
-   margin-top: 10px;
+   margin-top: 5px;
    line-height: 100%;
    padding: 5px;
    letter-spacing: 2px;
@@ -201,6 +203,8 @@
     z-index: 1;
     border-radius: 5px;
     overflow: auto;
+    text-align: justify;
+    line-height: 27px;
   }
   
   .fancylist span {
