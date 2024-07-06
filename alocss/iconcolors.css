@@ -19,6 +19,9 @@
 #nessa {--main: 118, 130, 53; --alt: 130, 53, 80; --unicode:'\c43'; }
 #nessa .hauyne-h1:before { font-family:'harc';  }
 
+#olive  {--main: 0, 132, 154; --alt: 254, 186, 199; --unicode:'\c43'; }
+#olive .hauyne-h1:before { font-family:'harc';  }
+
 #pal {--main: 114, 162, 163; --alt: 139, 114, 163; --unicode:'\c34'; }
 #pal .hauyne-h1:before { font-family:'harc';  }
 
