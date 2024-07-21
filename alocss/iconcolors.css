@@ -4,6 +4,9 @@
 #gene {--main: 209, 86, 174; --alt: 209, 182, 86; --unicode:'\c29'; }
 #gene .hauyne-h1:before { font-family:'harc';  }
 
+#iggy {--main: 170, 100, 94; --alt: 110, 172, 153; --unicode:'\c38'; }
+#iggy .hauyne-h1:before { font-family:'harc';  }
+
 #judy {--main: 216, 143, 68; --alt: 68, 141, 216; --unicode:'\e11'; }
 #judy .hauyne-h1:before { font-family:'bearsicle';  }
 
