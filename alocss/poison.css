@@ -8,20 +8,21 @@
   }
   
   .poisonin {
-    width: 370px;
+    width: 310px;
     background: #fff;
     padding: 5px;
     z-index: 1;
     margin-top: 40px;
     padding-top: 40px;
-    padding-left: 15px; padding-right: 15px;
-    padding-bottom: 15px;
-    font-size: 15px;
+    padding-left: 45px; padding-right: 45px;
+    padding-bottom: 45px;
+    font-size: 13px;
     text-align: justify;
     line-height: 24px;
     border-radius: 5px;
     font-family: "quicksand", sans-serif;
   }
+  
   
   .poisonin u {
     color: rgba(var(--main));
