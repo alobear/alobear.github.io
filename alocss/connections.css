@@ -1,0 +1,139 @@
+ .res-box {
+    position: relative;
+    overflow: hidden;
+    margin: 25px auto;
+    width: 470px; height: 350px;
+    background: linear-gradient(rgba(var(--bgy), 1), rgba(var(--main), 0.7));
+    padding: 50px;
+    font-family: sans-serif;
+    box-shadow: 2px 2px 2px #222;
+    border: 1px solid;
+    border-color: rgba(var(--main));
+  }
+  
+  .res-pos {
+    font-family: "Poiret One", sans-serif;
+    font-size: 30px;
+    color: rgba(var(--wht));
+    text-shadow: 2px 2px 2px #111;
+    letter-spacing: 2px;
+    padding-bottom: 10px;
+    position: absolute;
+    top: 80px; left: 20px;
+  }
+  
+  .res-neu {
+    font-family: "Poiret One", sans-serif;
+    font-size: 30px;
+    color: rgba(var(--wht));
+    text-shadow: 2px 2px 2px #111;
+    letter-spacing: 2px;
+    padding-bottom: 10px;
+    position: absolute;
+    top: 200px; left: 20px;
+    text-transform: capitalise;
+  }
+  
+  .res-neg {
+    font-family: "Poiret One", sans-serif;
+    font-size: 30px;
+    color: rgba(var(--wht));
+    text-shadow: 2px 2px 2px #111;
+    letter-spacing: 2px;
+    padding-bottom: 10px;
+    position: absolute;
+    top: 315px; left: 20px;
+  }
+  
+  .res-head {
+    font-family: "Poiret One", sans-serif;
+    font-size: 30px;
+    text-transform: uppercase;
+    text-align: center;
+    color: rgba(var(--wht));
+    text-shadow: 2px 2px 2px #111;
+    letter-spacing: 2px;
+    padding-bottom: 20px;
+    position: absolute;
+    top: 30px; left: 210px;
+  }
+
+  .res-con {
+    background: rgba(var(--bgy), 0.6);
+    border-radius: 5px;
+    padding: 4px;
+    text-align: center;
+    font-size: 10px;
+    text-transform: uppercase;
+    color: rgba(var(--main));
+    letter-spacing: 2px;
+    z-index: 2;
+  }
+  
+  .res-list {
+    overflow: auto;
+    z-index: 1;
+    border-radius: 5px;
+    overflow: auto;
+    line-height: 20px;
+    width: 530px; height: 70px;
+    position: absolute;
+    left: 20px; top: 110px;
+        text-align: justify;
+  }
+  
+  .res-list2 {
+    overflow: auto;
+    z-index: 1;
+    border-radius: 5px;
+    overflow: auto;
+    line-height: 20px;
+    width: 530px; height: 70px;
+    position: absolute;
+    left: 20px; top: 230px;
+        text-align: justify;
+  }
+  
+    .res-list3 {
+    overflow: auto;
+    z-index: 1;
+    border-radius: 5px;
+    overflow: auto;
+    line-height: 20px;
+    width: 530px; height: 70px;
+    position: absolute;
+    left: 20px; top: 345px;
+    text-align: justify;
+  }
+  
+  .res-box ::-webkit-scrollbar {
+background:transparent;
+border:0px;
+height:1px;
+width:0px; }
+.hmtt-shps::-webkit-scrollbar-thumb {
+background:transparent;
+border:0px; }
+
+  
+  /* colours */
+  #cam  { 
+   --bgy: 5,5,5; 
+   --wht: 245, 244, 246;
+   --main: 87,37,37; }
+  
+  #mar {
+   --bgy: 5,5,5; 
+      --wht: 245, 244, 246;
+   --main: 37,75,91; }
+  
+  #sai {
+   --bgy: 5,5,5; 
+   --wht: 245, 244, 246;
+   --main: 100,53,69; }
+   
+  #enzo {
+   --bgy: 5,5,5; 
+   --wht: 245, 244, 246;
+   --main: 113, 95, 65;
+  }
