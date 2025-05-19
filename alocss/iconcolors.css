@@ -43,10 +43,8 @@
 #zosia {--main: 125, 79, 114; --alt: 79, 91, 125; --unicode:'\c42'; }
 #zosia .hauyne-h1:before { font-family:'harc';  }
 
-// *AEAE* //
-
-#amar {--main: 125, 79, 114; --alt: 79, 91, 125; --unicode:'\c42'; }
-#amar .hauyne-h1:before { font-family:'harc';  }
+#kitty {--main: 125, 79, 114; --alt: 79, 91, 125; --unicode:'\c42'; }
+#kitty .hauyne-h1:before { font-family:'harc';  }
 
 #marsh {--main: 170, 100, 94; --alt: 110, 172, 153; --unicode:'\c38'; }
 #marsh .hauyne-h1:before { font-family:'harc';  }
