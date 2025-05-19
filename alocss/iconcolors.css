@@ -43,11 +43,11 @@
 #zosia {--main: 125, 79, 114; --alt: 79, 91, 125; --unicode:'\c42'; }
 #zosia .hauyne-h1:before { font-family:'harc';  }
 
-#kitty {--main: 125, 79, 114; --alt: 79, 91, 125; --unicode:'\c42'; }
-#kitty .hauyne-h1:before { font-family:'harc';  }
+#kitty {--main: 118, 130, 53; --alt: 130, 53, 80; --unicode:'\e12'; }
+#kitty .hauyne-h1:before { font-family:'bearsicle';  }
 
 #marsh {--main: 170, 100, 94; --alt: 110, 172, 153; --unicode:'\c38'; }
 #marsh .hauyne-h1:before { font-family:'harc';  }
 
-#sai {--main: 229, 149, 189; --alt: 149, 229, 189; --unicode:'\c44'; }
+#sai {--main: 125, 79, 114; --alt: 79, 91, 125; --unicode:'\c44'; }
 #sai .hauyne-h1:before { font-family:'harc';  }
