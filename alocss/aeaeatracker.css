@@ -86,10 +86,11 @@
    text-transform: uppercase;
    font-family: "quicksand", sans-serif;
    font-size: 12px;
-   margin: 0px 5px 5px 0px;
+   margin: 0px 0px 5px 0px;
    line-height: 150%;
    font-weight: 800;
    filter: grayscale(100%);
+   opacity: 0.5;
  }
  
   .aecalen .dead {
