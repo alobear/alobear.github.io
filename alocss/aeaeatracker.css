@@ -55,7 +55,7 @@
 
 
 .aecalen a {
-   color: rgba(var(--main));
+   color: rgba(var(--main))!important;
    font-family: "quicksand", sans-serif;
    font-size: 12px;
    letter-spacing: 2px;
