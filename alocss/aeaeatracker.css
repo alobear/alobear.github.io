@@ -68,8 +68,8 @@
 }
 
 .aecalen b {
-   color: rgba(var(--main));
-   font-weighr: 700px;
+   color: rgba(var(--main))!important;
+   font-weight: 800;
 }
 
 .aecalen .ongoing {
