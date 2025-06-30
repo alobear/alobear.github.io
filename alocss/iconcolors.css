@@ -57,6 +57,9 @@
 #marsh {--main: 170, 100, 94; --alt: 110, 172, 153; --unicode:'\c38'; }
 #marsh .hauyne-h1:before { font-family:'harc';  }
 
+#nettie {--main: 158, 144, 162; --alt: 182, 194, 217; --unicode:'\c35'; }
+#nettie .hauyne-h1:before { font-family:'harc';  }
+
 #tadhg {--main: 48, 92, 33; --alt: 182, 190, 65; --unicode:'\c41'; }
 #tadhg .hauyne-h1:before { font-family:'harc';  }
 
