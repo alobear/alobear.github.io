@@ -51,6 +51,9 @@
 #kitty {--main: 118, 130, 53; --alt: 130, 53, 80; --unicode:'\e12'; }
 #kitty .hauyne-h1:before { font-family:'bearsicle';  }
 
+#cam {--main: 119, 98, 116; --alt: 160, 113, 120; --unicode:'\c33'; }
+#cam .hauyne-h1:before { font-family:'harc';  }
+
 #judas {--main: 56, 65, 94; --alt: 218, 44, 56; --unicode:'\c42'; }
 #judas .hauyne-h1:before { font-family:'harc';  }
 
@@ -64,6 +67,9 @@
 #tadhg .hauyne-h1:before { font-family:'harc';  }
 
 #sai {--main: 115, 47, 115; --alt: 163, 72, 224; --unicode:'\c44'; }
+#sai .hauyne-h1:before { font-family:'harc';  }
+
+#simyeon {--main: 247, 146, 86; --alt: 0, 178, 202; --unicode:'\c43'; }
 #sai .hauyne-h1:before { font-family:'harc';  }
 
 #vinny {--main: 64, 69, 107; --alt: 74, 62, 62; --unicode:'\c45'; }
