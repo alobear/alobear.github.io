@@ -54,17 +54,17 @@
   }
   
   .wil-reply u {
-    color: rgba(var(--main));
+    color: rgba(var(--alt));
     text-decoration: underline 2px;
     font-weight: 700px;
   }
   
   .wil-reply i {
-    color: rgba(var(--alt));
+    color: rgba(var(--main));
     font-weight: 700px;
   }
   
-  .wil-reply b !important {
+  .wil-reply b {
     color: rgba(var(--main));
     font-weight: 700px;
   }
@@ -93,5 +93,6 @@
    text-decoration-thickness: 2px;
 
 }
+
 
 
