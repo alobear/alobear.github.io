@@ -1,45 +1,23 @@
-#cat {--main: 142, 125, 190; --alt: 218, 44, 56; --unicode:'\c22'; }
-#cat .hauyne-h1:before { font-family:'harc';  }
+#fae {--main: 114, 94, 84; --alt: 213, 220, 249; --unicode:'\c40'; }
+#fae .hauyne-h1:before { font-family:'harc';  }
 
-#eys {--main: 191, 169, 82; --alt: 41, 135, 72; --unicode:'\c38'; }
-#eys .hauyne-h1:before { font-family:'harc';  }
+#jud {--main: 173, 198, 152; --alt: 80, 48, 71; --unicode:'\e11'; }
+#jud .hauyne-h1:before { font-family:'bearsicle';  } 
 
-#gene {--main: 209, 86, 174; --alt: 209, 182, 86; --unicode:'\c29'; }
-#gene .hauyne-h1:before { font-family:'harc';  }
+#kyr {--main: 201, 125, 96; --alt: 38, 35, 34; --unicode:'\e12'; }
+#kyr .hauyne-h1:before { font-family:'bearsicle';  }
 
-#iggy {--main: 170, 100, 94; --alt: 110, 172, 153; --unicode:'\c38'; }
-#iggy .hauyne-h1:before { font-family:'harc';  }
+#oli {--main: 148, 123, 211; --alt: 242, 108, 167; --unicode:'\c43'; }
+#oli .hauyne-h1:before { font-family:'harc';  }
 
-#judy {--main: 216, 143, 68; --alt: 68, 141, 216; --unicode:'\e11'; }
-#judy .hauyne-h1:before { font-family:'bearsicle';  }
+#opa {--main: 114, 162, 163; --alt: 139, 114, 163; --unicode:'\c35'; }
+#opa .hauyne-h1:before { font-family:'harc';  }
 
-#manon {--main: 69, 4, 13; --alt: 27, 4, 69; --unicode:'\c45'; }
-#manon .hauyne-h1:before { font-family:'harc';  }
+#sai {--main: 229, 149, 189; --alt: 149, 229, 189; --unicode:'\c44'; }
+#sai .hauyne-h1:before { font-family:'harc';  }
 
-#maud {--main: 100, 157, 163; --alt: 126, 163, 100; --unicode:'\e12'; }
-#maud .hauyne-h1:before { font-family:'bearsicle';  }
+#ten {--main: 16, 168, 168; --alt: 243, 201, 139; --unicode:'\c45'; }
+#ten .hauyne-h1:before { font-family:'harc';  }
 
-#misun {--main: 160, 77, 196; --alt: 113, 196, 77; --unicode:'\c35'; }
-#misun .hauyne-h1:before { font-family:'harc';  }
-
-#nessa {--main: 118, 130, 53; --alt: 130, 53, 80; --unicode:'\c43'; }
-#nessa .hauyne-h1:before { font-family:'harc';  }
-
-#olive  {--main: 0, 132, 154; --alt: 248, 170, 184; --unicode:'\c43'; }
-#olive .hauyne-h1:before { font-family:'harc';  }
-
-#pal {--main: 114, 162, 163; --alt: 139, 114, 163; --unicode:'\c34'; }
-#pal .hauyne-h1:before { font-family:'harc';  }
-
-#penny {--main: 65, 190, 135; --alt: 182, 190, 65; --unicode:'\c40'; }
-#penny .hauyne-h1:before { font-family:'harc';  }
-
-#sailor {--main: 229, 149, 189; --alt: 149, 229, 189; --unicode:'\c44'; }
-#sailor .hauyne-h1:before { font-family:'harc';  }
-
-#yara {--main: 136, 217, 230; --alt: 139, 139, 174; --unicode:'\c32'; }
-#yara .hauyne-h1:before { font-family:'harc';  }
-
-#zosia {--main: 125, 79, 114; --alt: 79, 91, 125; --unicode:'\c42'; }
-#zosia .hauyne-h1:before { font-family:'harc';  }
-
+#zos {--main: 111, 104, 109; --alt: 224, 211, 222; --unicode:'\c42'; }
+#zos .hauyne-h1:before { font-family:'harc';  }
