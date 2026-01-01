@@ -64,7 +64,7 @@
     font-weight: 700px;
   }
   
-  .wil-reply b {
+  .wil-reply b !important {
     color: rgba(var(--main));
     font-weight: 700px;
   }
@@ -93,4 +93,5 @@
    text-decoration-thickness: 2px;
 
 }
+
 
