@@ -1,0 +1,94 @@
+ .wil-box {
+    width: 450px;
+    position: relative;
+    margin: 30px auto;
+    padding: 10px;
+    background:linear-gradient(to bottom, rgba(var(--main), 0.2), rgba(var(--alt), 0.3));
+    border-radius: 10px;
+  }
+  
+  .wil-reply {
+    background: #fff;
+    width: 400px;
+    font-size: 14px;
+    text-align: justify;
+    padding-top: 50px;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-bottom: 25px;
+    border-radius: 10px;
+    margin-top: 50px;
+    border-bottom: 4px rgba(var(--alt)) solid;
+    line-height: 18px;
+  }
+  
+  .wil-ico-bx {
+    height: 100px; width: 100px;
+    position: absolute;
+    top: 13px; right: 10px;
+    background: #fff;
+    border-radius: 50px;
+  }
+  
+  .wil-ico {
+    position: absolute;
+    top: 50px; right: 35px;
+    font-family: 'harc', 'bearsicle';
+    font-size: 50px;
+    color: rgba(var(--alt));
+    z-index: 2;
+  }
+  
+  .wil-ico:before {
+    content: var(--unicode);
+  }
+  
+  .wil-date {
+    position: absolute;
+    font-size: 14px;
+    font-family: virgo delight;
+    text-transform: uppercase;
+    top: 75px; left: 35px;
+    color: rgba(var(--alt));
+    letter-spacing: 2px;
+  }
+  
+  .wil-reply u {
+    color: rgba(var(--main));
+    text-decoration: underline 2px;
+    font-weight: 700px;
+  }
+  
+  .wil-reply i {
+    color: rgba(var(--alt));
+    font-weight: 700px;
+  }
+  
+  .wil-reply b {
+    color: rgba(var(--main));
+    font-weight: 700px;
+  }
+
+.wil-reply hr {
+    width: 100px;
+    color: rgba(var(--main), 0.3);  
+    margin: 30px auto;
+}
+
+  .wil-tag {
+    font-size: 12px;
+    text-align: justify;
+    line-height: 18px;
+  }
+
+  .wil-tag a {
+   height: 10px;
+   line-height: 10px;
+   text-transform: uppercase;
+   color: rgba(var(--main));
+   font-size: 12px;
+   font-weight: 800px;
+   text-decoration: underline;
+   text-decoration-color:rgba(var(--alt));
+   text-decoration-thickness: 2px;
+}
