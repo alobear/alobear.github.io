@@ -1,6 +1,9 @@
 #fae {--main: 114, 94, 84; --alt: 166, 181, 242; --unicode:'\c40'; }
 #fae .hauyne-h1:before { font-family:'harc';  }
 
+#har {--main: 114, 97, 163; --alt: 57, 87, 86; --unicode:'\c31'; }
+#har .hauyne-h1:before { font-family:'harc';  }
+
 #jud {--main: 173, 198, 152; --alt: 80, 48, 71; --unicode:'\e11'; }
 #jud .hauyne-h1:before { font-family:'bearsicle';  } 
 
@@ -21,7 +24,6 @@
 
 #ten {--main: 16, 168, 168; --alt: 243, 201, 139; --unicode:'\c45'; }
 #ten .hauyne-h1:before { font-family:'harc';  }
-
 
 #zos {--main: 111, 104, 109; --alt: 128, 71, 94; --unicode:'\c42'; }
 #zos .hauyne-h1:before { font-family:'harc';  }
